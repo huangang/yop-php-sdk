@@ -1,5 +1,5 @@
 {
-  "name": "yeepay/yop-php-sdk",
+  "name": "huangang/yop-php-sdk",
   "type": "library",
   "description": "本项目用于对接 YOP 上面的 API",
   "homepage": "https://open.yeepay.com",
